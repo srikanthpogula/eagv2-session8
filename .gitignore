@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+.env
+/documents/
+/faiss_index/
+credentials.json
+token_*.json
+*.xlsx
